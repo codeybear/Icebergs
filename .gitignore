@@ -118,3 +118,4 @@ dmypy.json
 
 # extra
 .jupyter/
+.bash_history
